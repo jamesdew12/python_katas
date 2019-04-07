@@ -1,2 +1,5 @@
 def divider_check(x, y, n):
-    return x
+    if x % y == 0 and x % n == 0:
+        return True
+    else:
+        return False
