@@ -4,3 +4,5 @@ I will be practicing python by doing some katas from code wars, starting with ea
 
 Filter - filter strings in a list using another list.
 Multiply - simply maths, multiply numbers together.
+is it divisible - check if numbers are divisible by the 2 numbers.
+string ends with - checking to see if string ends the same as argument.
