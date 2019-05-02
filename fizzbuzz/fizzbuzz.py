@@ -6,4 +6,6 @@ def fizzbuzz(number):
         x = x + "fizz"
     elif number % 5 == 0:
         x = x + "buzz"
+    elif number:
+        x = str(number)
     return x
